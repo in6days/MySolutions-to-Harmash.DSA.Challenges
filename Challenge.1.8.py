@@ -97,4 +97,4 @@ for i in range(1, l + 1):
 
     print()
 
-#in6days.
+#in6days
