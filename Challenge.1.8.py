@@ -35,7 +35,6 @@ for i in range(1, l + 1):
     print()
 
 #Enter the number of lines: 7
-Enter the number of lines: 7
 # 1 1 1 1 1 1 1
 # 0 0 0 0 0 0 0
 # 1 1 1 1 1 1 1
