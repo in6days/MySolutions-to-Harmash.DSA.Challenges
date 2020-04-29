@@ -100,6 +100,7 @@ for i in range(1, l + 1):
         print('  ' * (l - i) + '* ' * int(((2 * i) - l) / 2) + '  ' + '* ' * int(((2 * i) - l) / 2), end='')
 
     print()
+    
 #Enter the number of lines: 9
 # * * * *   * * * *
 # * * * *   * * * *
