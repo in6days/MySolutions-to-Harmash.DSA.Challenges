@@ -21,7 +21,7 @@ print('Its reverse is: '+ str(rev))
 
 # أكتب برنامج يطلب من المستخدم إدخال رقم. بعدها يعرض له إن كان هذا الرقم عبارة عن Palindrome أم لا.
 # الـ Palindrome عبارة عن رقم أعداده معكوسة بشكل متساوي من اليمين إلى اليسار و من اليسار إلى اليمين.
-n = int(input('Enter a number: '))
+#n = int(input('Enter a number: '))
 
 rev = 0
 origin_n = n
