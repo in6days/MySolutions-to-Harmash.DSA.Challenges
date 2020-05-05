@@ -6,7 +6,6 @@
 def CountWords(str):
     return len(str.split())
 
-
 s = input('Enter a text: ')
 
 result = CountWords(s)
@@ -99,7 +98,3 @@ else:
     print('Text 1 NOT end with ' + t2)
 
 #in6days.
-
-
-
-
