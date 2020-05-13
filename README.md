@@ -1,6 +1,6 @@
-# Harmash.D.S.A.Challenges
+# Harmash.DSA.Challenges
 
-Algorithms & Data Structure Challenges
+Algorithms & Data Structure (DSA) Challenges
 
 https://harmash.com/algorithms-and-data-structure/overview/
 
