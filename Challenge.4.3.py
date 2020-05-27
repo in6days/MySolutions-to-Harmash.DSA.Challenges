@@ -20,7 +20,7 @@ e = 2
 
 FindAll(arr, e)
 
-# قم بتعريف دالة إسمها CountOccurrence, # 
+# قم بتعريف دالة إسمها CountOccurrence, 
 # مهمتها البحث في مصفوفة أحادية ( تتألف من أعداد صحيحة ) و طباعة كم مرة تكررت كل قيمة موجودة فيها.
 # The count of 0 is: 2
 # The count of 4 is: 3
